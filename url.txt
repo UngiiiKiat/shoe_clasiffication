@@ -1,8 +1,5 @@
 1. URL Dataset
 https://www.kaggle.com/datasets/utkarshsaxenadn/shoes-classification-dataset-13k-images/data?select=Shoes+Dataset
 
-2. URL Best Model
-https://drive.google.com/file/d/1CnAu8AoawkIGPVQlRt4xtvVf_P-pIJZH/view?usp=sharing
-
 3. URL Deployment
 https://huggingface.co/spaces/Ungiii/computervision_sepatu
